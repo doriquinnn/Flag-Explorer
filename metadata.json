@@ -1,0 +1,5 @@
+{
+  "name": "Flag Explorer & Quiz",
+  "description": "An interactive web application to learn about the symbolism and colors of world flags, and test your knowledge with a fun quiz powered by the Gemini API.",
+  "requestFramePermissions": []
+}
